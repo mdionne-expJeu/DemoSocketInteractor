@@ -13,7 +13,7 @@ public class ControleMains : MonoBehaviour
 
     void Awake()
     {
-        handAnimator = GetComponent<Animator>(); 
+        handAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
